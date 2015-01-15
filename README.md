@@ -1,5 +1,8 @@
 # task-gulp
 
+__注意__
+`node_modules`を`.gitignore`で除外してないのでまだ媒体では使用出来ません。
+
 タスクランナーです。  
 プロジェクト内に`package.json`と`gulpfile.js`を置いて  
 `npm install`すれば使える筈です。  
